@@ -1,0 +1,355 @@
+V3 197
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/address_decoder.vhd 2020/01/23.14:34:24 P.20131013
+EN work/address_decoder 1580071704 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/address_decoder.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/address_decoder/Behavioral 1580071705 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/address_decoder.vhd \
+      EN work/address_decoder 1580071704 CP ii_address_calculator
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/clk_pll.vhd 2020/01/22.02:48:57 P.20131013
+EN work/clk_pll 1580071752 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/clk_pll.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/clk_pll/BEHAVIORAL 1580071753 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/clk_pll.vhd \
+      EN work/clk_pll 1580071752 CP BUFG CP DCM_SP
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/counter.vhd 2019/12/27.10:23:49 P.20131013
+EN work/counter 1580071698 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/counter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/counter/Behavioral 1580071699 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/counter.vhd \
+      EN work/counter 1580071698
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/draw.vhd 2020/01/27.03:32:35 P.20131013
+EN work/draw 1580071764 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/draw.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/draw/Behavioral 1580071765 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/draw.vhd EN work/draw 1580071764 \
+      CP fifo2 CP counter CP synch_counter
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/feature_calc.vhd 2020/01/23.14:05:09 P.20131013
+EN work/feature_calc 1580071690 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/feature_calc.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/feature_calc/Behavioral 1580071691 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/feature_calc.vhd \
+      EN work/feature_calc 1580071690 CP f_rect_calc
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/f_rect_calc.vhd 2020/01/23.14:03:57 P.20131013
+EN work/f_rect_calc 1580071684 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/f_rect_calc.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/f_rect_calc/Behavioral 1580071685 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/f_rect_calc.vhd \
+      EN work/f_rect_calc 1580071684
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/iix2_address_decoder.vhd 2020/01/23.14:37:06 P.20131013
+EN work/iix2_address_decoder 1580071706 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/iix2_address_decoder.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/iix2_address_decoder/Behavioral 1580071707 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/iix2_address_decoder.vhd \
+      EN work/iix2_address_decoder 1580071706
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_address_calculator.vhd 2020/01/23.14:30:11 P.20131013
+EN work/ii_address_calculator 1580071694 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_address_calculator.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ii_address_calculator/Behavioral 1580071695 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_address_calculator.vhd \
+      EN work/ii_address_calculator 1580071694
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_gen_top.vhd 2020/01/22.15:45:06 P.20131013
+EN work/ii_gen_top 1580071756 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_gen_top.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ii_gen_top/Behavioral 1580071757 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_gen_top.vhd \
+      EN work/ii_gen_top 1580071756 CP rgb2grey
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_offset.vhd 2020/01/23.14:29:02 P.20131013
+EN work/ii_offset 1580071702 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_offset.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ii_offset/Behavioral 1580071703 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ii_offset.vhd \
+      EN work/ii_offset 1580071702
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/fifo2.vhd 2020/01/24.13:39:48 P.20131013
+EN work/fifo2 1580071696 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/fifo2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/fifo2/fifo2_a 1580071697 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/fifo2.vhd \
+      EN work/fifo2 1580071696
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/FIFO_box_buff.vhd 2020/01/20.14:17:32 P.20131013
+EN work/FIFO_box_buff 1579814288 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/FIFO_box_buff.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FIFO_box_buff/FIFO_box_buff_a 1579814289 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/FIFO_box_buff.vhd \
+      EN work/FIFO_box_buff 1579814288
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/iix2_ram_buffer.vhd 2020/01/22.15:18:59 P.20131013
+EN work/iix2_ram_buffer 1580071760 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/iix2_ram_buffer.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/iix2_ram_buffer/iix2_ram_buffer_a 1580071761 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/iix2_ram_buffer.vhd \
+      EN work/iix2_ram_buffer 1580071760
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/ii_ram_buffer.vhd 2020/01/22.15:12:08 P.20131013
+EN work/ii_ram_buffer 1580071758 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/ii_ram_buffer.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ii_ram_buffer/ii_ram_buffer_a 1580071759 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/ii_ram_buffer.vhd \
+      EN work/ii_ram_buffer 1580071758
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/image_buffer.vhd 2020/01/22.04:02:32 P.20131013
+EN work/image_buffer 1580071754 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/image_buffer.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/image_buffer/image_buffer_a 1580071755 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/image_buffer.vhd \
+      EN work/image_buffer 1580071754
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/leftLeaves_rom.vhd 2020/01/02.22:42:28 P.20131013
+EN work/leftLeaves_rom 1580071714 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/leftLeaves_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/leftLeaves_rom/leftLeaves_rom_a 1580071715 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/leftLeaves_rom.vhd \
+      EN work/leftLeaves_rom 1580071714
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_h_rom.vhd 2019/12/30.21:41:26 P.20131013
+EN work/rect0_h_rom 1580071724 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_h_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect0_h_rom/rect0_h_rom_a 1580071725 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_h_rom.vhd \
+      EN work/rect0_h_rom 1580071724
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_weight_rom.vhd 2019/12/31.19:44:03 P.20131013
+EN work/rect0_weight_rom 1580071726 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_weight_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect0_weight_rom/rect0_weight_rom_a 1580071727 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_weight_rom.vhd \
+      EN work/rect0_weight_rom 1580071726
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_w_rom.vhd 2019/12/30.21:38:25 P.20131013
+EN work/rect0_w_rom 1580071722 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_w_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect0_w_rom/rect0_w_rom_a 1580071723 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_w_rom.vhd \
+      EN work/rect0_w_rom 1580071722
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_x_rom.vhd 2019/12/30.21:32:44 P.20131013
+EN work/rect0_x_rom 1580071718 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_x_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect0_x_rom/rect0_x_rom_a 1580071719 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_x_rom.vhd \
+      EN work/rect0_x_rom 1580071718
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_y_rom.vhd 2019/12/30.21:35:30 P.20131013
+EN work/rect0_y_rom 1580071720 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_y_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect0_y_rom/rect0_y_rom_a 1580071721 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect0_y_rom.vhd \
+      EN work/rect0_y_rom 1580071720
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_h_rom.vhd 2019/12/30.22:01:43 P.20131013
+EN work/rect1_h_rom 1580071734 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_h_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect1_h_rom/rect1_h_rom_a 1580071735 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_h_rom.vhd \
+      EN work/rect1_h_rom 1580071734
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_weight_rom.vhd 2019/12/31.19:48:58 P.20131013
+EN work/rect1_weight_rom 1580071736 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_weight_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect1_weight_rom/rect1_weight_rom_a 1580071737 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_weight_rom.vhd \
+      EN work/rect1_weight_rom 1580071736
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_w_rom.vhd 2019/12/30.21:58:20 P.20131013
+EN work/rect1_w_rom 1580071732 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_w_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect1_w_rom/rect1_w_rom_a 1580071733 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_w_rom.vhd \
+      EN work/rect1_w_rom 1580071732
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_x_rom.vhd 2019/12/30.21:50:12 P.20131013
+EN work/rect1_x_rom 1580071728 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_x_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect1_x_rom/rect1_x_rom_a 1580071729 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_x_rom.vhd \
+      EN work/rect1_x_rom 1580071728
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_y_rom.vhd 2019/12/30.21:53:38 P.20131013
+EN work/rect1_y_rom 1580071730 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_y_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect1_y_rom/rect1_y_rom_a 1580071731 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect1_y_rom.vhd \
+      EN work/rect1_y_rom 1580071730
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_h_rom.vhd 2019/12/30.22:13:47 P.20131013
+EN work/rect2_h_rom 1580071744 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_h_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect2_h_rom/rect2_h_rom_a 1580071745 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_h_rom.vhd \
+      EN work/rect2_h_rom 1580071744
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_weight_rom.vhd 2019/12/30.22:16:23 P.20131013
+EN work/rect2_weight_rom 1580071746 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_weight_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect2_weight_rom/rect2_weight_rom_a 1580071747 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_weight_rom.vhd \
+      EN work/rect2_weight_rom 1580071746
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_w_rom.vhd 2019/12/30.22:11:16 P.20131013
+EN work/rect2_w_rom 1580071742 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_w_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect2_w_rom/rect2_w_rom_a 1580071743 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_w_rom.vhd \
+      EN work/rect2_w_rom 1580071742
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_x_rom.vhd 2019/12/30.22:06:08 P.20131013
+EN work/rect2_x_rom 1580071738 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_x_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect2_x_rom/rect2_x_rom_a 1580071739 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_x_rom.vhd \
+      EN work/rect2_x_rom 1580071738
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_y_rom.vhd 2019/12/30.22:08:55 P.20131013
+EN work/rect2_y_rom 1580071740 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_y_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rect2_y_rom/rect2_y_rom_a 1580071741 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rect2_y_rom.vhd \
+      EN work/rect2_y_rom 1580071740
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rightLeaves_rom.vhd 2020/01/02.22:43:54 P.20131013
+EN work/rightLeaves_rom 1580071716 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rightLeaves_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/rightLeaves_rom/rightLeaves_rom_a 1580071717 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/rightLeaves_rom.vhd \
+      EN work/rightLeaves_rom 1580071716
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/sqrt.vhd 2020/01/02.10:18:02 P.20131013
+EN work/sqrt 1580071682 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/sqrt.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sqrt/sqrt_a 1580071683 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/sqrt.vhd \
+      EN work/sqrt 1580071682
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/strongThresh_rom.vhd 2019/12/30.21:20:25 P.20131013
+EN work/strongThresh_rom 1580071708 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/strongThresh_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/strongThresh_rom/strongThresh_rom_a 1580071709 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/strongThresh_rom.vhd \
+      EN work/strongThresh_rom 1580071708
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/weakStageNum_rom.vhd 2019/12/30.21:16:40 P.20131013
+EN work/weakStageNum_rom 1580071710 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/weakStageNum_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/weakStageNum_rom/weakStageNum_rom_a 1580071711 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/weakStageNum_rom.vhd \
+      EN work/weakStageNum_rom 1580071710
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/weakTresh_rom.vhd 2020/01/02.21:36:16 P.20131013
+EN work/weakTresh_rom 1580071712 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/weakTresh_rom.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/weakTresh_rom/weakTresh_rom_a 1580071713 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/weakTresh_rom.vhd \
+      EN work/weakTresh_rom 1580071712
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd 2020/01/23.15:20:46 P.20131013
+EN work/klasifikasi 1580071748 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/klasifikasi/Behavioral 1580071749 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd \
+      EN work/klasifikasi 1580071748 CP register_file CP register_file_4 \
+      CP feature_calc CP variance_calc
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/mux2to1_1bit.vhd 2020/01/18.08:20:52 P.20131013
+EN work/mux2to1_1bit 1580065597 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/mux2to1_1bit.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux2to1_1bit/Behavioral 1580065598 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/mux2to1_1bit.vhd \
+      EN work/mux2to1_1bit 1580065597
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/mux2to1_nbit.vhd 2020/01/26.12:42:19 P.20131013
+EN work/mux2to1_nbit 1580065599 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/mux2to1_nbit.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux2to1_nbit/Behavioral 1580065600 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/mux2to1_nbit.vhd \
+      EN work/mux2to1_nbit 1580065599
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/processing_top.vhd 2020/01/27.02:49:10 P.20131013
+EN work/processing_top 1580071762 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/processing_top.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/processing_top/Behavioral 1580071763 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/processing_top.vhd \
+      EN work/processing_top 1580071762 CP ii_offset CP address_decoder \
+      CP iix2_address_decoder CP counter CP strongthresh_rom CP weakstagenum_rom \
+      CP weaktresh_rom CP leftleaves_rom CP rightleaves_rom CP rect0_x_rom \
+      CP rect0_y_rom CP rect0_w_rom CP rect0_h_rom CP rect0_weight_rom \
+      CP rect1_x_rom CP rect1_y_rom CP rect1_w_rom CP rect1_h_rom \
+      CP rect1_weight_rom CP rect2_x_rom CP rect2_y_rom CP rect2_w_rom \
+      CP rect2_h_rom CP rect2_weight_rom CP klasifikasi
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file.vhd 2019/11/07.03:37:29 P.20131013
+EN work/register_file 1580071686 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/register_file/Behavioral 1580071687 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file.vhd \
+      EN work/register_file 1580071686
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file_4.vhd 2019/11/07.03:38:03 P.20131013
+EN work/register_file_4 1580071688 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file_4.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/register_file_4/Behavioral 1580071689 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file_4.vhd \
+      EN work/register_file_4 1580071688
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/rgb2grey.vhd 2020/01/18.20:06:55 P.20131013
+EN work/rgb2grey 1580071750 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/rgb2grey.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/rgb2grey/Behavioral 1580071751 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/rgb2grey.vhd \
+      EN work/rgb2grey 1580071750
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/synch_counter.vhd 2020/01/17.20:03:14 P.20131013
+EN work/synch_counter 1580071700 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/synch_counter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/synch_counter/Behavioral 1580071701 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/synch_counter.vhd \
+      EN work/synch_counter 1580071700
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.vhd 2020/01/27.01:53:46 P.20131013
+EN work/top 1580065601 FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/top/Behavioral 1580065602 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.vhd EN work/top 1580065601 \
+      CP clk_pll CP image_buffer CP ii_gen_top CP ii_ram_buffer CP iix2_ram_buffer \
+      CP processing_top CP draw CP vga_addr_gen CP vga_timing CP vga_color \
+      CP mux2to1_1bit CP mux2to1_nbit
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/variance_calc.vhd 2020/01/23.14:04:58 P.20131013
+EN work/variance_calc 1580071692 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/variance_calc.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/variance_calc/Behavioral 1580071693 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/variance_calc.vhd \
+      EN work/variance_calc 1580071692 CP sqrt
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_addr_gen.vhd 2020/01/22.03:17:54 P.20131013
+EN work/vga_addr_gen 1580071766 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_addr_gen.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/vga_addr_gen/Behavioral 1580071767 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_addr_gen.vhd \
+      EN work/vga_addr_gen 1580071766
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_color.vhd 2020/01/11.11:39:21 P.20131013
+EN work/vga_color 1580065595 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_color.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/vga_color/Behavioral 1580065596 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_color.vhd \
+      EN work/vga_color 1580065595
+FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_timing.vhd 2020/01/22.03:17:05 P.20131013
+EN work/vga_timing 1580071768 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_timing.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/std_logic_arith 1381692177
+AR work/vga_timing/Behavioral 1580071769 \
+      FL C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/vga_timing.vhd \
+      EN work/vga_timing 1580071768
