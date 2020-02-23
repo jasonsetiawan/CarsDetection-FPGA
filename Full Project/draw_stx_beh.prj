@@ -1,0 +1,4 @@
+vhdl isim_temp "ipcore_dir/fifo2.vhd"
+vhdl isim_temp "synch_counter.vhd"
+vhdl isim_temp "counter.vhd"
+vhdl isim_temp "draw.vhd"

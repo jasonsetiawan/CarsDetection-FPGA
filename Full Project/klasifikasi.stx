@@ -1,0 +1,62 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/f_rect_calc.vhd" in Library work.
+Architecture behavioral of Entity f_rect_calc is up to date.
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file.vhd" in Library work.
+Architecture behavioral of Entity register_file is up to date.
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/register_file_4.vhd" in Library work.
+Architecture behavioral of Entity register_file_4 is up to date.
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/feature_calc.vhd" in Library work.
+Architecture behavioral of Entity feature_calc is up to date.
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" in Library work.
+Entity <klasifikasi> compiled.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 191. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r0.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 192. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r1.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 193. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r2.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 194. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r3.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 195. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r4.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 196. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r5.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 197. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r6.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 198. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r7.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 199. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r8.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 200. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r9.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 201. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r10.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 202. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of r11.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 212. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of iia.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 213. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of iib.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 214. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of iic.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 215. Width mismatch. Expected width 20, Actual width is 19 for dimension 1 of iid.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 216. Width mismatch. Expected width 28, Actual width is 23 for dimension 1 of ii2a.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 217. Width mismatch. Expected width 28, Actual width is 23 for dimension 1 of ii2b.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 218. Width mismatch. Expected width 28, Actual width is 23 for dimension 1 of ii2c.
+ERROR:HDLParsers:837 - "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/klasifikasi.vhd" Line 219. Width mismatch. Expected width 28, Actual width is 23 for dimension 1 of ii2d.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.40 secs
+ 
+--> 
+
+Total memory usage is 4499920 kilobytes
+
+Number of errors   :   20 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

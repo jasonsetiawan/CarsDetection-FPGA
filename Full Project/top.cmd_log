@@ -1,0 +1,343 @@
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+netgen -intstyle ise -s 5  -pcf top.pcf -rpw 100 -tpw 0 -ar Structure -tm top -w -dir netgen/map -ofmt vhdl -sim top_map.ncd top_map.vhd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+netgen -intstyle ise -s 5  -pcf top.pcf -rpw 100 -tpw 0 -ar Structure -tm top -w -dir netgen/map -ofmt vhdl -sim top_map.ncd top_map.vhd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+netgen -intstyle ise -s 5  -pcf top.pcf -rpw 100 -tpw 0 -ar Structure -tm top -w -dir netgen/map -ofmt vhdl -sim top_map.ncd top_map.vhd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+netgen -intstyle ise -s 5  -pcf top.pcf -rpw 100 -tpw 0 -ar Structure -tm top -w -dir netgen/map -ofmt vhdl -sim top_map.ncd top_map.vhd 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top_preroute.twx top_map.ncd -o top_preroute.twr top.pcf -ucf top.ucf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+netgen -intstyle ise -s 5  -pcf top.pcf -rpw 100 -tpw 0 -ar Structure -tm top -w -dir netgen/map -ofmt vhdl -sim top_map.ncd top_map.vhd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+netgen -intstyle ise -s 5  -pcf top.pcf -rpw 100 -tpw 0 -ar Structure -tm top -w -dir netgen/map -ofmt vhdl -sim top_map.ncd top_map.vhd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+netgen -intstyle ise -s 5  -pcf top.pcf -rpw 100 -tpw 0 -ar Structure -tm top -w -dir netgen/map -ofmt vhdl -sim top_map.ncd top_map.vhd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Final/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Final/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+xst -intstyle ise -ifn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Final/top.xst" -ofn "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Final/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc top.ucf -p xc3s500e-fg320-5 top.ngc top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -detail -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 

@@ -1,0 +1,21 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sat Feb 22 14:01:24 2020
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "pll_locked" LOCATE = SITE "J15" LEVEL 1;
+COMP "vga_red<0>" LOCATE = SITE "R9" LEVEL 1;
+COMP "vga_red<1>" LOCATE = SITE "T8" LEVEL 1;
+COMP "vga_red<2>" LOCATE = SITE "R8" LEVEL 1;
+COMP "clk50" LOCATE = SITE "B8" LEVEL 1;
+COMP "vga_blue<0>" LOCATE = SITE "U4" LEVEL 1;
+COMP "vga_blue<1>" LOCATE = SITE "U5" LEVEL 1;
+COMP "reset" LOCATE = SITE "H13" LEVEL 1;
+COMP "vga_hsync" LOCATE = SITE "T4" LEVEL 1;
+COMP "vga_vsync" LOCATE = SITE "U3" LEVEL 1;
+COMP "camera" LOCATE = SITE "G18" LEVEL 1;
+COMP "vga_green<0>" LOCATE = SITE "N8" LEVEL 1;
+COMP "vga_green<1>" LOCATE = SITE "P8" LEVEL 1;
+COMP "vga_green<2>" LOCATE = SITE "P6" LEVEL 1;
+SCHEMATIC END;
+

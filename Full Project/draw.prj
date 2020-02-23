@@ -1,0 +1,4 @@
+vhdl work "ipcore_dir/fifo2.vhd"
+vhdl work "synch_counter.vhd"
+vhdl work "counter.vhd"
+vhdl work "draw.vhd"

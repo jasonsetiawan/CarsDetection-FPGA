@@ -1,0 +1,49 @@
+Release 14.7 Drc P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Fri Feb 21 05:38:01 2020
+
+drc -z top.ncd top.pcf
+
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   Inst_processing_top/result_not0001 is sourced by a combinatorial pin. This is
+   not good design practice. Use the CE pin to control the loading of data into
+   the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net clk_mainbufferA is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net clk_mainbufferB is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA3> on
+   block:<iix2_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/val
+   id.cstr/ramloop[5].ram.r/s3_noinit.ram/dpram.dp4x4.ram.A>:<RAMB16_RAMB16A>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA3> on
+   block:<ii_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid
+   .cstr/ramloop[4].ram.r/s3_noinit.ram/dpram.dp4x4.ram.A>:<RAMB16_RAMB16A>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA0> on
+   block:<image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_g
+   en/valid.cstr/ramloop[6].ram.r/s3_init.ram/dpram.dp2x2.ram.A>:<RAMB16_RAMB16A
+   >.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA0> on
+   block:<image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_g
+   en/valid.cstr/ramloop[3].ram.r/s3_init.ram/dpram.dp2x2.ram.A>:<RAMB16_RAMB16A
+   >.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA0> on
+   block:<image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_g
+   en/valid.cstr/ramloop[1].ram.r/s3_init.ram/dpram.dp4x4.ram.A>:<RAMB16_RAMB16A
+   >.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA1> on
+   block:<image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_g
+   en/valid.cstr/ramloop[1].ram.r/s3_init.ram/dpram.dp4x4.ram.A>:<RAMB16_RAMB16A
+   >.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA0> on
+   block:<image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_g
+   en/valid.cstr/ramloop[4].ram.r/s3_init.ram/dpram.dp4x4.ram.A>:<RAMB16_RAMB16A
+   >.
+WARNING:PhysDesignRules:812 - Dangling pin <DOA0> on
+   block:<image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_g
+   en/valid.cstr/ramloop[7].ram.r/s3_init.ram/dpram.dp4x4.ram.A>:<RAMB16_RAMB16A
+   >.
+DRC detected 0 errors and 11 warnings.  Please see the previously displayed
+individual error or warning messages for more details.

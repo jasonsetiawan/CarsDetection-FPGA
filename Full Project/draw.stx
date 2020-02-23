@@ -1,0 +1,41 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.35 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.35 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/ipcore_dir/fifo2.vhd" in Library work.
+Architecture fifo2_a of Entity fifo2 is up to date.
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/counter.vhd" in Library work.
+Architecture behavioral of Entity counter is up to date.
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/synch_counter.vhd" in Library work.
+Architecture behavioral of Entity synch_counter is up to date.
+Compiling vhdl file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/draw.vhd" in Library work.
+Entity <draw> compiled.
+Entity <draw> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 1.26 secs
+ 
+--> 
+
+Total memory usage is 4484908 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

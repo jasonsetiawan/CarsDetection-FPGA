@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">image_main_buffer/douta&lt;8&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">image_main_buffer/douta&lt;4&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">image_main_buffer/douta&lt;1&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">image_main_buffer/douta&lt;0&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;15&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;14&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;13&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;12&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;11&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;10&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;9&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;8&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;7&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;6&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;5&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;4&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;3&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;2&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;1&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qspo_int&lt;0&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;15&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;14&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;13&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;12&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;11&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;10&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;9&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;8&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;7&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;6&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;5&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;4&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;3&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;2&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;1&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_draw/fifo/U0/xst_options.dist_mem_inst/gen_dp_ram.dpram_inst/qdpo_int&lt;0&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/U0/i_synth/gen_sqrt.square_root/gen_iterations[12].gen_last.gen_no_round.gen_sqrt_tmp/d_reg&lt;2&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/U0/i_synth/gen_sqrt.square_root/gen_iterations[12].gen_last.gen_no_round.gen_sqrt_tmp/d_reg&lt;1&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/U0/i_synth/gen_sqrt.square_root/gen_iterations[12].gen_last.gen_no_round.gen_sqrt_tmp/d_reg&lt;0&gt;</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000000a/sig00000183</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000000a/sig00000181</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk00000035/sig000001ad</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk00000035/sig000001ab</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000006b/sig000001e5</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000006b/sig000001e3</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk00000098/sig0000020f</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk00000098/sig0000020d</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000000cd/sig00000248</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000000cd/sig00000246</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000000fb/sig00000271</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000000fb/sig0000026f</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000012f/sig000002ab</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000012f/sig000002a9</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000015e/sig000002d3</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk0000015e/sig000002dc</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk00000191/sig00000305</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk00000191/sig0000030d</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000344</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000342</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000341</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000340</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig0000033f</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig0000034d</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig0000034c</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig0000034b</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig0000034a</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000349</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000348</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000347</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000346</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig00000345</arg> has no load.
+</msg>
+
+<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">Inst_processing_top/inst_deteksi_roi/inst_var_calc/stddev_inst/blk000001b2/sig0000033e</arg> has no load.
+</msg>
+
+<msg type="info" file="MapLib" num="562" delta="old" >No environment variables are currently set.
+</msg>
+
+<msg type="info" file="LIT" num="244" delta="old" >All of the single ended outputs in this design are using slew rate limited output drivers. The delay on speed critical single ended outputs can be dramatically reduced by designating them as fast outputs.
+</msg>
+
+<msg type="warning" file="LIT" num="176" delta="old" >Clock buffer is designated to drive clock loads. <arg fmt="%s" index="1">BUFGMUX symbol &quot;physical_group_clk/Inst_clk_pll/CLK0_BUFG_INST&quot; (output signal=clk)</arg> has a mix of clock and non-clock loads. The non-clock loads are:
+<arg fmt="%s" index="2">Pin I2 of clkmuxA/q1</arg>
+</msg>
+
+<msg type="warning" file="LIT" num="176" delta="old" >Clock buffer is designated to drive clock loads. <arg fmt="%s" index="1">BUFGMUX symbol &quot;physical_group_clk_iigen/Inst_clk_pll/CLK2X_BUFG_INST&quot; (output signal=clk_iigen)</arg> has a mix of clock and non-clock loads. The non-clock loads are:
+<arg fmt="%s" index="2">Pin I0 of clkmuxB/q_and00011</arg>
+</msg>
+
+<msg type="warning" file="LIT" num="176" delta="old" >Clock buffer is designated to drive clock loads. <arg fmt="%s" index="1">BUFGMUX symbol &quot;physical_group_clk_vga/Inst_clk_pll/CLKDV_BUFG_INST&quot; (output signal=clk_vga)</arg> has a mix of clock and non-clock loads. The non-clock loads are:
+<arg fmt="%s" index="2">Pin I1 of clkmuxA/q1</arg>
+</msg>
+
+<msg type="warning" file="Pack" num="266" delta="old" >The function generator <arg fmt="%s" index="1">Inst_processing_top/weakthreshrom/U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mrom_spo_int_rom00004411</arg> failed to merge with F5 multiplexer <arg fmt="%s" index="2">Inst_processing_top/weakthreshrom/U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mrom_spo_int_rom0000581_6_f5</arg>.  <arg fmt="%z" index="3">There is a conflict for the FXMUX.</arg>  The design will exhibit suboptimal timing.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="372" delta="old" >Gated clock. Clock net <arg fmt="%s" index="1">Inst_processing_top/result_not0001</arg> is sourced by a combinatorial pin. This is not good design practice. Use the CE pin to control the loading of data into the flip-flop.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="372" delta="old" >Gated clock. Clock net <arg fmt="%s" index="1">clk_mainbufferA</arg> is sourced by a combinatorial pin. This is not good design practice. Use the CE pin to control the loading of data into the flip-flop.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="372" delta="old" >Gated clock. Clock net <arg fmt="%s" index="1">clk_mainbufferB</arg> is sourced by a combinatorial pin. This is not good design practice. Use the CE pin to control the loading of data into the flip-flop.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA3</arg>&gt; on block:&lt;<arg fmt="%s" index="2">iix2_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[5].ram.r/s3_noinit.ram/dpram.dp4x4.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA3</arg>&gt; on block:&lt;<arg fmt="%s" index="2">ii_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[4].ram.r/s3_noinit.ram/dpram.dp4x4.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA0</arg>&gt; on block:&lt;<arg fmt="%s" index="2">image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[6].ram.r/s3_init.ram/dpram.dp2x2.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA0</arg>&gt; on block:&lt;<arg fmt="%s" index="2">image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[3].ram.r/s3_init.ram/dpram.dp2x2.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA0</arg>&gt; on block:&lt;<arg fmt="%s" index="2">image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[1].ram.r/s3_init.ram/dpram.dp4x4.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA1</arg>&gt; on block:&lt;<arg fmt="%s" index="2">image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[1].ram.r/s3_init.ram/dpram.dp4x4.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA0</arg>&gt; on block:&lt;<arg fmt="%s" index="2">image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[4].ram.r/s3_init.ram/dpram.dp4x4.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOA0</arg>&gt; on block:&lt;<arg fmt="%s" index="2">image_main_buffer/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[7].ram.r/s3_init.ram/dpram.dp4x4.ram.A</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16A</arg>&gt;.
+</msg>
+
+</messages>
+

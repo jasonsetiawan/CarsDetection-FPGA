@@ -1,0 +1,172 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/testbenchall2_isim_beh.exe -prj C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/testbenchall2_beh.prj work.testbenchall2 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/image_buffer.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/ii_ram_buffer.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/iix2_ram_buffer.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/sqrt.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect0_h_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect0_w_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect0_weight_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect0_x_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect0_y_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect1_h_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect1_w_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect1_weight_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect1_x_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect1_y_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect2_h_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect2_w_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect2_weight_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect2_x_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rect2_y_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/rightLeaves_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/strongThresh_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/weakStageNum_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/weakTresh_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/leftLeaves_rom.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ipcore_dir/fifo2.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/f_rect_calc.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/variance_calc.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/register_file_4.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/register_file.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ii_address_calculator.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/feature_calc.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/synch_counter.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/rgb2grey.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/klasifikasi.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ii_offset.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/iix2_address_decoder.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/counter.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/address_decoder.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/vga_timing.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/vga_color.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/vga_addr_gen.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/processing_top.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/mux2to1_nbit.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/mux2to1_1bit.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/clk_pll.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/ii_gen_top.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/draw.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/top.vhd" into library work
+Parsing VHDL file "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/testbenchall2.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1242 - "N:/P.20131013/rtf/vhdl/src/ieee/numeric_std.vhd" Line 3240: Warning: "NUMERIC_STD.TO_UNSIGNED: vector truncated"
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling architecture bufg_v of entity BUFG [bufg_default]
+Compiling architecture dcm_sp_clock_divide_by_2_v of entity dcm_sp_clock_divide_by_2 [dcm_sp_clock_divide_by_2_default]
+Compiling architecture dcm_sp_maximum_period_check_v of entity dcm_sp_maximum_period_check [\dcm_sp_maximum_period_check("*"...]
+Compiling architecture dcm_sp_maximum_period_check_v of entity dcm_sp_maximum_period_check [\dcm_sp_maximum_period_check("*"...]
+Compiling architecture dcm_sp_clock_lost_v of entity dcm_sp_clock_lost [dcm_sp_clock_lost_default]
+Compiling architecture dcm_sp_v of entity DCM_SP [\DCM_SP(true,"*",true,false,2.0,...]
+Compiling architecture behavioral of entity clk_pll [clk_pll_default]
+Compiling package std_logic_textio
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V7_3_output_stage [\BLK_MEM_GEN_V7_3_output_stage("...]
+Compiling architecture softecc_output_reg_stage_behavioral of entity BLK_MEM_GEN_V7_3_softecc_output_reg_stage [\BLK_MEM_GEN_V7_3_softecc_output...]
+Compiling architecture mem_module_behavioral of entity BLK_MEM_GEN_V7_3_mem_module [\BLK_MEM_GEN_V7_3_mem_module("bl...]
+Compiling architecture behavioral of entity BLK_MEM_GEN_V7_3 [\BLK_MEM_GEN_V7_3("blk_mem_gen_v...]
+Compiling architecture image_buffer_a of entity image_buffer [image_buffer_default]
+Compiling architecture behavioral of entity rgb2grey [rgb2grey_default]
+Compiling architecture behavioral of entity ii_gen_top [ii_gen_top_default]
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V7_3_output_stage [\BLK_MEM_GEN_V7_3_output_stage("...]
+Compiling architecture softecc_output_reg_stage_behavioral of entity BLK_MEM_GEN_V7_3_softecc_output_reg_stage [\BLK_MEM_GEN_V7_3_softecc_output...]
+Compiling architecture mem_module_behavioral of entity BLK_MEM_GEN_V7_3_mem_module [\BLK_MEM_GEN_V7_3_mem_module("bl...]
+Compiling architecture behavioral of entity BLK_MEM_GEN_V7_3 [\BLK_MEM_GEN_V7_3("blk_mem_gen_v...]
+Compiling architecture ii_ram_buffer_a of entity ii_ram_buffer [ii_ram_buffer_default]
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V7_3_output_stage [\BLK_MEM_GEN_V7_3_output_stage("...]
+Compiling architecture softecc_output_reg_stage_behavioral of entity BLK_MEM_GEN_V7_3_softecc_output_reg_stage [\BLK_MEM_GEN_V7_3_softecc_output...]
+Compiling architecture mem_module_behavioral of entity BLK_MEM_GEN_V7_3_mem_module [\BLK_MEM_GEN_V7_3_mem_module("bl...]
+Compiling architecture behavioral of entity BLK_MEM_GEN_V7_3 [\BLK_MEM_GEN_V7_3("blk_mem_gen_v...]
+Compiling architecture iix2_ram_buffer_a of entity iix2_ram_buffer [iix2_ram_buffer_default]
+Compiling architecture behavioral of entity ii_offset [ii_offset_default]
+Compiling architecture behavioral of entity ii_address_calculator [ii_address_calculator_default]
+Compiling architecture behavioral of entity address_decoder [address_decoder_default]
+Compiling architecture behavioral of entity iix2_address_decoder [iix2_address_decoder_default]
+Compiling architecture behavioral of entity counter [\counter(4)\]
+Compiling architecture behavioral of entity counter [\counter(2)\]
+Compiling architecture behavioral of entity counter [\counter(7)\]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",4,...]
+Compiling architecture strongthresh_rom_a of entity strongThresh_rom [strongthresh_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",4,...]
+Compiling architecture weakstagenum_rom_a of entity weakStageNum_rom [weakstagenum_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture weaktresh_rom_a of entity weakTresh_rom [weaktresh_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture leftleaves_rom_a of entity leftLeaves_rom [leftleaves_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rightleaves_rom_a of entity rightLeaves_rom [rightleaves_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect0_x_rom_a of entity rect0_x_rom [rect0_x_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect0_y_rom_a of entity rect0_y_rom [rect0_y_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect0_w_rom_a of entity rect0_w_rom [rect0_w_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect0_h_rom_a of entity rect0_h_rom [rect0_h_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect0_weight_rom_a of entity rect0_weight_rom [rect0_weight_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect1_x_rom_a of entity rect1_x_rom [rect1_x_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect1_y_rom_a of entity rect1_y_rom [rect1_y_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect1_w_rom_a of entity rect1_w_rom [rect1_w_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect1_h_rom_a of entity rect1_h_rom [rect1_h_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect1_weight_rom_a of entity rect1_weight_rom [rect1_weight_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect2_x_rom_a of entity rect2_x_rom [rect2_x_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect2_y_rom_a of entity rect2_y_rom [rect2_y_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect2_w_rom_a of entity rect2_w_rom [rect2_w_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect2_h_rom_a of entity rect2_h_rom [rect2_h_rom_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",7,...]
+Compiling architecture rect2_weight_rom_a of entity rect2_weight_rom [rect2_weight_rom_default]
+Compiling architecture behavioral of entity register_file [\register_file(4,19)\]
+Compiling architecture behavioral of entity register_file_4 [\register_file_4(2,19)\]
+Compiling architecture behavioral of entity register_file_4 [\register_file_4(2,28)\]
+Compiling architecture behavioral of entity f_rect_calc [f_rect_calc_default]
+Compiling architecture behavioral of entity feature_calc [feature_calc_default]
+Compiling package math_real
+Compiling package bip_utils_pkg_v2_0
+Compiling package std_logic_signed
+Compiling package mult_gen_pkg_v11_0
+Compiling package cordic_v4_0_pack
+Compiling architecture behavioral of entity cordic_v4_0 [\cordic_v4_0(2,6,0,2,"spartan3",...]
+Compiling architecture sqrt_a of entity sqrt [sqrt_default]
+Compiling architecture behavioral of entity variance_calc [variance_calc_default]
+Compiling architecture behavioral of entity klasifikasi [klasifikasi_default]
+Compiling architecture behavioral of entity processing_top [processing_top_default]
+Compiling architecture behavioral of entity dist_mem_gen_v7_2 [\dist_mem_gen_v7_2("spartan3",9,...]
+Compiling architecture fifo2_a of entity fifo2 [fifo2_default]
+Compiling architecture behavioral of entity counter [\counter(9)\]
+Compiling architecture behavioral of entity synch_counter [\synch_counter(8)\]
+Compiling architecture behavioral of entity draw [draw_default]
+Compiling architecture behavioral of entity vga_addr_gen [vga_addr_gen_default]
+Compiling architecture behavioral of entity vga_timing [vga_timing_default]
+Compiling architecture behavioral of entity vga_color [vga_color_default]
+Compiling architecture behavioral of entity mux2to1_1bit [mux2to1_1bit_default]
+Compiling architecture behavioral of entity mux2to1_nbit [\mux2to1_nbit(14)\]
+Compiling architecture behavioral of entity top [top_default]
+Compiling architecture behavior of entity testbenchall2
+Time Resolution for simulation is 1ps.
+Waiting for 68 sub-compilation(s) to finish...
+Compiled 201 VHDL Units
+Built simulation executable C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1a/testbenchall2_isim_beh.exe
+Fuse Memory Usage: 116452 KB
+Fuse CPU Usage: 9405 ms

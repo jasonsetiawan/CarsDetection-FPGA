@@ -1,0 +1,27 @@
+C:\Users\Jason\Desktop\SKRIPSI\PROJECT\Final\top.ngc 1582354861
+ipcore_dir/image_buffer.ngc 1580794507
+ipcore_dir/ii_ram_buffer.ngc 1579680726
+ipcore_dir/iix2_ram_buffer.ngc 1579681138
+ipcore_dir/rect2_weight_rom.ngc 1577718982
+ipcore_dir/rect2_h_rom.ngc 1577718826
+ipcore_dir/rect2_w_rom.ngc 1577718675
+ipcore_dir/rect2_y_rom.ngc 1577718534
+ipcore_dir/rect2_x_rom.ngc 1577718366
+ipcore_dir/rect1_weight_rom.ngc 1577796537
+ipcore_dir/rect1_h_rom.ngc 1577718102
+ipcore_dir/rect1_w_rom.ngc 1577717899
+ipcore_dir/rect1_y_rom.ngc 1577717617
+ipcore_dir/rect1_x_rom.ngc 1577717411
+ipcore_dir/rect0_weight_rom.ngc 1577796240
+ipcore_dir/rect0_h_rom.ngc 1577716885
+ipcore_dir/rect0_w_rom.ngc 1577716704
+ipcore_dir/rect0_y_rom.ngc 1577716528
+ipcore_dir/rect0_x_rom.ngc 1577716363
+ipcore_dir/rightLeaves_rom.ngc 1577979833
+ipcore_dir/leftLeaves_rom.ngc 1577979746
+ipcore_dir/weakTresh_rom.ngc 1577975774
+ipcore_dir/weakStageNum_rom.ngc 1577715399
+ipcore_dir/strongThresh_rom.ngc 1577715624
+ipcore_dir/fifo2.ngc 1579847987
+ipcore_dir/sqrt.ngc 1577935080
+OK

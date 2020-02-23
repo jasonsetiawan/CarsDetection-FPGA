@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Jason/Desktop/SKRIPSI/PROJECT/Revisi1/xst"
+elaborate
+-ifn draw.prj
+-ifmt mixed

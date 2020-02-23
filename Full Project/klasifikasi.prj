@@ -1,0 +1,5 @@
+vhdl work "f_rect_calc.vhd"
+vhdl work "register_file_4.vhd"
+vhdl work "register_file.vhd"
+vhdl work "feature_calc.vhd"
+vhdl work "klasifikasi.vhd"
