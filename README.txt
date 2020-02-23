@@ -5,7 +5,7 @@ Project Description :
   
   The project was started in November 2019 and had been done in February 2020 by Jason D. Setiawan 
   under the guidance of Brawijaya University Electrical Engineering Department's lecturers,
-  R. Arief Setyawan, M.T and Adharul Mutaqqin, M.T.
+  R. Arief Setyawan, M.T and Adharul Muttaqin, M.T.
   
 Contents of Repository:
   1. Readme.txt
