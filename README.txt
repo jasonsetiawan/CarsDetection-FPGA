@@ -1,6 +1,10 @@
 Project Description : 
-  This project is aimed to implement Viola-Jones Algorithm in FPGA for cars' detection. 
+  This project is aimed to implement Viola-Jones Algorithm in FPGA for cars' detection. It described
+  in VHDL and was written in ISE 14.7 environment.It had been successfully simulated using ISim Simulator 
+  and implemented on Digilent Nexys2 FPGA Development Board with Spartan 3E-500 FG-320 FPGA Core.
   
   The project was started in November 2019 and had been done in February 2020 by Jason D. Setiawan 
   under the guidance of Brawijaya University Electrical Engineering Department's lecturers,
   R. Arief Setyawan, M.T and Adharul Mutaqqin, M.T.
+  
+Contents of Repositor
